@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Explain the difference between supervised and unsupervised learning in machine learning.",
+    "category": "general"
+  },
+  {
+    "text": "Solve: If a train travels at 60 mph for 2.5 hours, how far does it travel? Show your working.",
+    "category": "math"
+  },
+  {
+    "text": "Write a Python function that takes a list of integers and returns the two numbers that sum to a target value.",
+    "category": "coding"
+  },
+  {
+    "text": "A farmer has 17 sheep. All but 9 die. How many sheep does the farmer have?",
+    "category": "reasoning"
+  },
+  {
+    "text": "What is the time complexity of binary search, and why?",
+    "category": "coding"
+  },
+  {
+    "text": "Prove that the square root of 2 is irrational.",
+    "category": "math"
+  },
+  {
+    "text": "Explain gradient descent in simple terms, as if explaining to a high school student.",
+    "category": "general"
+  },
+  {
+    "text": "Write a SQL query to find the top 5 customers by total order value from a table called 'orders' with columns: customer_id, amount.",
+    "category": "coding"
+  },
+  {
+    "text": "Three friends split a restaurant bill equally. The total is $87.60. How much does each person pay? If they want to leave a 20% tip, what is the new total?",
+    "category": "math"
+  },
+  {
+    "text": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost? Explain why the intuitive answer is wrong.",
+    "category": "reasoning"
+  },
+  {
+    "text": "Describe the attention mechanism in transformers and how it differs from RNNs.",
+    "category": "general"
+  },
+  {
+    "text": "Given a binary tree, write an algorithm to check if it is balanced.",
+    "category": "coding"
+  },
+  {
+    "text": "If you flip a fair coin 3 times, what is the probability of getting at least 2 heads?",
+    "category": "math"
+  },
+  {
+    "text": "What are the main tradeoffs between precision and recall in machine learning models?",
+    "category": "general"
+  },
+  {
+    "text": "A snail is at the bottom of a 10-meter well. Each day it climbs 3 meters, but each night it slips back 2 meters. How many days to escape?",
+    "category": "reasoning"
+  }
+]
