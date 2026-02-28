@@ -203,12 +203,6 @@ Interactive API docs available at http://localhost:8000/docs
 
 ---
 
-## Resume Bullet
 
-Built an end-to-end RLHF data platform generating preference pairs with 91% inter-annotator agreement, implementing Cohen's Kappa scoring and a Bradley-Terry reward model trained on exported RLHF JSONL datasets.
-
----
-
-## License
 
 MIT
